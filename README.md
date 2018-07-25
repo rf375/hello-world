@@ -1,2 +1,3 @@
 # hello-world
-Test
+
+Hello! This is an initial attempt at Github.
